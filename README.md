@@ -72,15 +72,6 @@ Plataforma de minijuegos online con registro de usuarios, compra y desbloqueo de
 - **Técnico del departamento IT · GHENOVA** — Gestión de usuarios, cuentas, permisos, inventario y soporte; colaboración en procedimientos relacionados con ISO 27001. *(mar. 2023 - jun. 2023)*
 - **Informático · Chiocciola Computer** — Reparación y mantenimiento de dispositivos y trabajo práctico con tecnologías de red. *(sept. 2022 - oct. 2022)*
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=javimr1224&show_icons=true&locale=es&theme=transparent&hide_border=true&title_color=f97316&icon_color=f97316" alt="Estadísticas de GitHub de Javier" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javimr1224&layout=compact&locale=es&theme=transparent&hide_border=true&title_color=f97316" alt="Lenguajes más utilizados por Javier" />
-
-</div>
-
 ## 🤝 Contacto
 
 ¿Tienes una oportunidad, una idea o un proyecto en el que podamos colaborar?
